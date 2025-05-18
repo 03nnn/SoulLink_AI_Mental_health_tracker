@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "It's going to be a hard-bought show.  I'm not feeling well.  I'm not feeling well.  I'm not feeling well",
+        "emotion": "unmotivated",
+        "text_emotion": "unmotivated",
+        "face_emotion": "no_face",
+        "confidence": 0.7,
+        "source": "text",
+        "timestamp": "2025-04-28T14:22:06.744593",
+        "username": "john"
+    },
+    {
+        "role": "assistant",
+        "content": " I'm really sorry to hear that you're not feeling your best right now. It sounds like this coming show might be quite challenging. Sometimes, when we're not feeling great, even the most exciting things can seem dancing. Is there anything specific that's been troubling you lately? Maybe we could work together to find a way to he you feel more energies and motivate for the show. Remember, it's okay to take things one she at a time. Take care of yourself.",
+        "timestamp": "2025-04-28T14:22:34.488436"
+    }
+]

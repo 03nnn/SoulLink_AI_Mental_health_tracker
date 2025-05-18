@@ -1,0 +1,39 @@
+# Core dependencies
+numpy>=1.19.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+sounddevice>=0.4.4
+soundfile>=0.10.3
+pyaudio>=0.2.11
+pvporcupine>=2.0.0
+
+# Hardware control
+RPi.GPIO>=0.7.0
+adafruit-circuitpython-pca9685>=3.4.8
+adafruit-circuitpython-busdevice>=5.0.1
+picamera2>=0.3.0
+
+# Network and utilities
+requests>=2.25.1
+
+# Note: The following packages might need additional system dependencies:
+# - pyaudio: Requires portaudio19-dev
+# - opencv-python: Requires libatlas-base-dev, libhdf5-dev, etc.
+# - picamera2: Requires specific Raspberry Pi OS configuration
+
+# Install system dependencies on Raspberry Pi OS with:
+# sudo apt-get update && sudo apt-get install -y \
+#   portaudio19-dev \
+#   libatlas-base-dev \
+#   libhdf5-dev \
+#   libhdf5-serial-dev \
+#   libatlas-base-dev \
+#   libjasper-dev \
+#   libqtgui4 \
+#   libqt4-test \
+#   python3-pyqt5
+
+# For Porcupine wake word detection, you'll need to:
+# 1. Get an access key from Picovoice Console (https://console.picovoice.ai/)
+# 2. Download the appropriate .ppn model file
+# 3. Update the PORCUPINE_ACCESS_KEY and WAKE_WORD_MODEL in the code

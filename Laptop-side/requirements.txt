@@ -1,0 +1,53 @@
+# Core Dependencies
+numpy>=1.19.0
+opencv-python>=4.5.0
+tensorflow>=2.5.0
+pillow>=8.0.0
+pymongo>=3.12.0
+python-dateutil>=2.8.2
+
+# Deep Learning and AI
+ollama>=0.1.0
+deepface>=0.0.79
+
+# NLP and Text Processing
+transformers>=4.12.0
+torch>=1.9.0
+sentencepiece>=0.1.96
+protobuf>=3.20.0
+
+# Network and Utilities
+requests>=2.25.1
+python-socketio>=5.0.0
+
+# Development Tools
+python-dotenv>=0.19.0
+
+# Note: For GPU support with TensorFlow, use:
+# tensorflow-gpu>=2.5.0
+
+# Install MongoDB Community Edition if not already installed:
+# For Ubuntu/Debian:
+# sudo apt-get install mongodb
+# For macOS:
+# brew install mongodb-community
+
+# For DeepFace, you might need additional dependencies:
+# On Ubuntu/Debian:
+# sudo apt-get install -y python3-opencv libgl1-mesa-glx
+# On macOS:
+# brew install opencv
+
+# For transformers, you might need:
+# pip install --upgrade protobuf
+
+# Environment Setup:
+# 1. Install Python 3.8 or higher
+# 2. Create a virtual environment:
+#    python -m venv venv
+#    source venv/bin/activate  # On Windows: venv\Scripts\activate
+# 3. Install dependencies:
+#    pip install -r requirements.txt
+# 4. Make sure MongoDB is running locally
+# 5. Run the application:
+#    python play.py

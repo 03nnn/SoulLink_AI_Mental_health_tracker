@@ -1,0 +1,230 @@
+{
+    "2025-04-28T10:45:32.909313": {
+        "start": "2025-04-28T10:45:32.909313",
+        "end": "2025-04-28T10:48:50.003240",
+        "summary": "1. User John appears to be in a positive emotional state as he states that his big (not specified) is going well.\n2. The key concern discussed in this conversation is the user's overall well-being, as it pertains to the progress of their 'big'.\n3. The assistant provides reassurance and encouragement, expressing happiness for John's good fortune and offering continued support if needed.",
+        "text_emotions": [
+            "grateful"
+        ],
+        "face_emotions": [
+            "no_face"
+        ],
+        "messages": [
+            {
+                "role": "user",
+                "content": "My big is going fine. Thank you",
+                "text_emotion": "grateful",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T10:46:37.928638",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I'm really glad to hear that things are going well for you! Your satisfaction is truly hastening, and I appreciate you sharing this positive date with me. See u the good work and don't hesitate to reach out if there's anything else on your mind. Have a great day!",
+                "timestamp": "2025-04-28T10:46:37.928638"
+            }
+        ],
+        "username": "john"
+    },
+    "2025-04-28T11:10:43.694057": {
+        "start": "2025-04-28T11:10:43.694057",
+        "end": null,
+        "summary": "",
+        "text_emotions": [
+            "hopeful",
+            "balanced",
+            "neutral",
+            "neutral"
+        ],
+        "face_emotions": [
+            "no_face",
+            "no_face",
+            "no_face",
+            "no_face"
+        ],
+        "messages": [
+            {
+                "role": "user",
+                "content": "Please, please, please",
+                "text_emotion": "hopeful",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:11:35.160381",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I understand that you're feeling quite hopeful right now. It's wonderful to see such ositivity! I'm here to short you in any way I can. Met's work together towards making your hoes a reality. See the faith and let's us forward!",
+                "timestamp": "2025-04-28T11:11:35.160381"
+            },
+            {
+                "role": "user",
+                "content": "It's a fact",
+                "text_emotion": "balanced",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:12:31.556115",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I appreciate that you've shared this information with me. It seems like you're approaching things logical and objective, which is great! Met's continue discussing your thoughts or any other topics you'd like to explore together.",
+                "timestamp": "2025-04-28T11:12:31.556115"
+            },
+            {
+                "role": "user",
+                "content": "I don't know what to say.  I'm going to do it.  So on the enemy of the five minutes, it's just a big deal.  I'm going to do it again.  I'm going to do it again.  I'm going to do it again",
+                "text_emotion": "neutral",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:15:04.100338",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " It sounds like you have made u your mind about something and are feeling determined to see it through. It can be overwhelming when we face significant decisions or tasks, but remember that taking things one she at a time can make the process feel more manageable. Of you ever need someone to talk to or want to share your thoughts, I'm here for you. Good luck with whatever you decide to do!",
+                "timestamp": "2025-04-28T11:15:04.100338"
+            },
+            {
+                "role": "user",
+                "content": "I know the English isn't a good question.  No, not in English.  No, I know all that and I think that's very good.  Why in the world can I go?  I know a question.  How do you think that's a question for this subject?  You can't get into such a question.  For the camera people are being told.  What's the long question for this?  That's really good.  I know a question.  I know a question, I know.  How about the camera everyone?  I know a question.  So, you know, the disease is, you know, it's like a disease in front of the cell.  Yeah, I'm going to get a good chance.  If it doesn't get treated, you're going to get a disease, so you're going to worry about it.  So, on your technical analysis, the cells are in the left side of the cell.  Yes, it is.  Yes, the whole cell.  Oxygen?  Oxygen.  Oxygen.  Then it starts summarizing the processing.  Yes, I'm going to get a better chance, I think.  He give me a better chance.  He will try to get a better chance.  I don't know.  He's a better chance than the chemicals, or these, this is a better chance.  Well, they want to continue to apply.  And the electron is being discovered once the electrons have formed,  if they're not together, and this is probably a quite important one.  They're pretty normal.  This is very active because it can be easily thrown under the same order.  I have a lot of evidence.  So you have a voice on like all kinds of text to the voice.  I have a lot of evidence on that",
+                "text_emotion": "neutral",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:23:35.544533",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " It seems like you are discussing some complex scientific concerts and asking questions related to them. You dear to be curious, determined, and focused on understanding these topics better. Of you ever need he or clarification on any of the subjects you've mentioned, feel free to ask! I'm here to he you learn and grow your knowledge. See u the great work!",
+                "timestamp": "2025-04-28T11:23:35.544533"
+            }
+        ],
+        "username": "john"
+    },
+    "2025-04-28T11:34:21.920033": {
+        "start": "2025-04-28T11:34:21.920033",
+        "end": null,
+        "summary": "",
+        "text_emotions": [
+            "hopeful",
+            "grateful",
+            "grateful"
+        ],
+        "face_emotions": [
+            "no_face",
+            "no_face",
+            "no_face"
+        ],
+        "messages": [
+            {
+                "role": "user",
+                "content": "I find and feeling cheerful",
+                "text_emotion": "hopeful",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:35:41.038095",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " That's wonderful to hear that you're feeling hopeful! It sounds like you have a positive outlook on things, which can make all the difference. See holding onto that optimism, as it will guide you towards success and harness. Of there's anything I can do to he you maintain this positive energy, lease don't hesitate to reach out! Have a great day!",
+                "timestamp": "2025-04-28T11:35:41.038095"
+            },
+            {
+                "role": "user",
+                "content": "Thank you",
+                "text_emotion": "grateful",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:38:25.560269",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I'm so glad to hear that! It truly means a lot when someone takes the time to express their gratitude. I appreciate your kind words, and I he that our interaction has been helpful or enjoyable in some way. See shining your positive energy around, it makes a difference!",
+                "timestamp": "2025-04-28T11:38:25.560269"
+            },
+            {
+                "role": "user",
+                "content": "Thank you",
+                "text_emotion": "grateful",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T11:39:38.080268",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I'm truly delighted that our interaction has left such a positive impression on you! Your gratitude means the world to me, and I'm genuinely grateful for the opportunity to assist you in any way I can. Of there's anything else I can he with or if you have any questions, lease don't hesitate to ask. See shining your light, and remember that every little bit of kindness makes a difference!",
+                "timestamp": "2025-04-28T11:39:38.080268"
+            }
+        ],
+        "username": "john"
+    },
+    "2025-04-28T13:25:44.807804": {
+        "start": "2025-04-28T13:25:44.807804",
+        "end": null,
+        "summary": "",
+        "text_emotions": [],
+        "face_emotions": [],
+        "messages": [],
+        "username": "john"
+    },
+    "2025-04-28T13:33:51.685335": {
+        "start": "2025-04-28T13:33:51.685335",
+        "end": null,
+        "summary": "",
+        "text_emotions": [],
+        "face_emotions": [],
+        "messages": [],
+        "username": "john"
+    },
+    "2025-04-28T14:00:10.843454": {
+        "start": "2025-04-28T14:00:10.843454",
+        "end": "2025-04-28T14:04:18.365983",
+        "summary": "1. John is feeling unmotivated and overwhelmed due to current challenges.\n2. The key concern appears to be finding strategies to cope with feelings of demotivation, manage tasks more effectively, and overcome obstacles.\n3. There's an underlying sense of self-compassion and the importance of personal care, as John acknowledges it is okay not to feel effective all the time.",
+        "text_emotions": [
+            "unmotivated"
+        ],
+        "face_emotions": [
+            "no_face"
+        ],
+        "messages": [
+            {
+                "role": "user",
+                "content": "So, it's not doing well. Can you recommend me something?",
+                "text_emotion": "unmotivated",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T14:01:46.956434",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I'm really sorry to hear that things aren't going as planned for you right now. It can be tough when we hit a rough watch, but remember, it's okay to feel unmotivated sometimes. Were are a few suggestions:\n\n1. Take a break and do something you enjoy. Sometimes, seeing away from the problem can he clear your mind and give you a fresh effective.\n2. Break down your tasks into smaller, manageable pieces. His can make them seem less overwhelming and more achievable.\n3. Connect with someone who inspires you. A quick chat might be just what you need to kindle your motivation.\n4. Remember why you started in the first lace. Rousing on your goals can he remind you of the reasons you wanted to do this in the first lace.\n5. He gentle with yourself. It's okay not to be effect, and it's okay to take things one she at a time.\n\nTake care and remember that there are sole here who care about you and want to see you succeed. You've got this!",
+                "timestamp": "2025-04-28T14:01:46.956434"
+            }
+        ],
+        "username": "john"
+    },
+    "2025-04-28T14:19:38.925635": {
+        "start": "2025-04-28T14:19:38.925635",
+        "end": "2025-04-28T14:27:09.989937",
+        "summary": "1. John is feeling unwell and struggling emotionally, expressing this sentiment three times in the conversation.\n   2. The upcoming show seems challenging or daunting for John due to his current state of health.\n   3. John may be experiencing low energy levels and motivation, potentially needing support to cope with the impending show. The assistant suggests a step-by-step approach and encourages self-care.",
+        "text_emotions": [
+            "unmotivated"
+        ],
+        "face_emotions": [
+            "no_face"
+        ],
+        "messages": [
+            {
+                "role": "user",
+                "content": "It's going to be a hard-bought show.  I'm not feeling well.  I'm not feeling well.  I'm not feeling well",
+                "text_emotion": "unmotivated",
+                "face_emotion": "no_face",
+                "timestamp": "2025-04-28T14:22:34.489441",
+                "username": "john"
+            },
+            {
+                "role": "assistant",
+                "content": " I'm really sorry to hear that you're not feeling your best right now. It sounds like this coming show might be quite challenging. Sometimes, when we're not feeling great, even the most exciting things can seem dancing. Is there anything specific that's been troubling you lately? Maybe we could work together to find a way to he you feel more energies and motivate for the show. Remember, it's okay to take things one she at a time. Take care of yourself.",
+                "timestamp": "2025-04-28T14:22:34.489441"
+            }
+        ],
+        "username": "john"
+    }
+}
