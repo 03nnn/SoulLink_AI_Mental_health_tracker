@@ -113,3 +113,4 @@ The 3D parts are taken from this repository: https://github.com/CodersCafeTech/E
 
 ##  Website 
 Visit our website for more information:- https://soul-link-two.vercel.app/
+refer this to install piper ins raspberry pi- https://www.youtube.com/watch?v=Bw9C4rqO63c
