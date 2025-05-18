@@ -102,7 +102,7 @@ Common issues and solutions can be found in the respective component directories
 ## 📜 License
 
 The 3D parts are taken from this repository: https://github.com/CodersCafeTech/Emo/tree/main/3D%20Design
--currently working for a license, applying for publication-18/may/2025.
+-currently applying for publication-18/may/2025.
 
 ## 🙏 Acknowledgments
 
